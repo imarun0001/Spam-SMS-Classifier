@@ -16,15 +16,20 @@ Spam or Ham sms is evaluated on the basis of transformed text which is obtained 
 
 # 5.Steps performed-
 a.DATA COLLECTION
+
 b.DATA CLEANING
+
 c.EDA
+
 d.TEXT/DATA PREPROCESSING
+
 e.MODEL BUILDING
+
 f.BUILDING PREDICTIVE SYSTEM
 
 # 6.Machine learning Model used-
-a.Guassian.Multinomial,Bernoulli Naive Bayes Classifier using BoW vectorizer(feature engineering)
-b.Guassian.Multinomial,Bernoulli Naive Bayes Classifier using TF-IDF vectorizer
+a.Guassian,Multinomial,Bernoulli Naive Bayes Classifier using BoW vectorizer(feature engineering)
+b.Guassian,Multinomial,Bernoulli Naive Bayes Classifier using TF-IDF vectorizer
 c.SVM Classifier using TF-IDF vectorizer
 d.KNN Classifier using TF-IDF vectorizer
 
