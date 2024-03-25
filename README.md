@@ -8,6 +8,7 @@ The problem statement in SMS spam classification is to build a machine learning 
 
 # 3.Kaggle dataset link named as SMS Spam Collection- 
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam. The files contain one message per line.
 Each line is composed by two columns: v1 contains the label (ham or spam) and v2 contains the raw text.
 
@@ -29,8 +30,11 @@ f.BUILDING PREDICTIVE SYSTEM
 
 # 6.Machine learning Model used-
 a.Guassian,Multinomial,Bernoulli Naive Bayes Classifier using BoW vectorizer(feature engineering)
+
 b.Guassian,Multinomial,Bernoulli Naive Bayes Classifier using TF-IDF vectorizer
+
 c.SVM Classifier using TF-IDF vectorizer
+
 d.KNN Classifier using TF-IDF vectorizer
 
 # 7.Result-
